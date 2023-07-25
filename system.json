@@ -1,0 +1,10 @@
+{
+  "id": "SKL",
+  "title": "SKL Game System",
+  "version": "0.01",
+  "compatibility":{
+    "minimum": "11",
+    "verified": "11",
+    "maxumium": "11"
+}
+}
